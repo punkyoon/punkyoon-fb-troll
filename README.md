@@ -1,6 +1,6 @@
 # DEPRECATED
 
-"Publishing comments through the API is only available for page access tokens"
+**"Publishing comments through the API is only available for page access tokens"**
 
 Facebook has disabled likes and comments through graph API. So It cannot work now.
 
