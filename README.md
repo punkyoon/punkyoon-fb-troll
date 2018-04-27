@@ -1,3 +1,9 @@
+# DEPRECATED
+
+"Publishing comments through the API is only available for page access tokens"
+
+Facebook has disabled likes and comments through graph API. So It cannot work now.
+
 ## 소개
 
 [하지윤](http://www.facebook.com/jiyoon96)이 페이스북에 글을 쓸 때마다 힘내서 열심히 일을 하라는 격려의 댓글을 달아줘요!
